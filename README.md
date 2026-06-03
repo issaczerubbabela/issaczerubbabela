@@ -38,7 +38,7 @@ I'm a passionate and versatile coder, a creative designer, and a true believer i
 
 ---
 
-![Top Skills](https://skillicons.dev/icons?i=python,java,js,react,flutter,arduino,ai,html,css,figma)
+![Top Skills](https://skillicons.dev/icons?i=golang,python,java,js,react,flutter,arduino,ai,html,css,figma)
 
 ---
 
